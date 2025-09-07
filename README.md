@@ -31,12 +31,10 @@ The [Lab Worksheet Template](lab-worksheet-template.md) is divided into three se
      - **Debugging Trail (optional)**: Steps, dead ends, or failed hypotheses while resolving discrepancies.
      - **Lesson / Takeaway**: What you learned, and how you will update your mental model or practice.
 
-3. **After the Lab** \*
-
-- **Follow-Up Threads**: Capture technical tangents or promising ideas to explore in future labs or study sessions.
-- **Reflection Seeds**: Note surprises, patterns, or workflow observations worth deeper reflection and self-assessment.
-
-* _NOTE_: Because our memory tends to fade quickly, you should fill out the after-lab sections as soon as possible following the session. You can process them later, but be sure to make some brief notes while they are fresh on your mind.
+3. **After the Lab**
+   - **Follow-Up Threads**: Capture technical tangents or promising ideas to explore in future labs or study sessions.
+   - **Reflection Seeds**: Note surprises, patterns, or workflow observations worth deeper reflection and self-assessment.
+   - _NOTE_: Because our memory tends to fade quickly, you should fill out the after-lab sections as soon as possible following the session. You can process them later, but be sure to make some brief notes while they are fresh on your mind.
 
 ---
 

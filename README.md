@@ -1,5 +1,7 @@
 # Computer Science Lab Notes Template
 
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+
 This template helps you learn computer science topics via deliberate experimentation. It provides structure to track what happens during lab sessions and convert those results into lasting learning.
 
 It guides structured, hands-on lab work across CS domains, from systems programming to algorithms, networking, compilers, or other technical topics. The template helps you connect experiments to learning goals, capture insights, and reflect on both technical outcomes and your learning process.
@@ -48,3 +50,7 @@ The [Lab Worksheet Template](lab-worksheet-template.md) is divided into three se
 ---
 
 Feel free to **copy this template** into your own lab notes or adapt it for specific projects or domains.
+
+## License
+
+This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), which allows sharing and adapting with attribution.
